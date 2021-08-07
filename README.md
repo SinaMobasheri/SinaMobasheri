@@ -4,7 +4,7 @@
 @@ Hello I'm SinaMobasheri @@
 # Student in Mathematics and Computer Science at SRBIAU
 + Pythonista
-! Web Development, Cloud Computing and Data Science
+! System Administrator, Web Developer and Data Scientist
 ```
 
 <br/>
