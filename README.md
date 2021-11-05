@@ -1,16 +1,4 @@
-<img align="left" height="175" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"/>
-
-```diff
-@@ Hello I'm SinaMobasheri @@
-# Student in Mathematics and Computer Science at SRBIAU
-+ Pythonista
-! System Administrator, Web Developer and Data Scientist
-```
-
-<br/>
-<br/>
-<br/>
-<br/>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"/>
 
 **Contact Me:**
 [**Telegram**](https://t.me/SinaMobasheri/),
