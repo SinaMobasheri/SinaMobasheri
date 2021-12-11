@@ -6,5 +6,5 @@
 
 <br/>
 
-Joiner Python Developer Snake
-Mathematics & Computer Science Personal computer
+Joiner Python Developer 🐍 <br/>
+Mathematics & Computer Science Personal 💻
