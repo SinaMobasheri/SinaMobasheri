@@ -7,4 +7,4 @@
 <br/>
 
 Joiner Python Developer 🐍 <br/>
-Mathematics & Computer Science Personal 💻
+Mathematics & Computer Science 💻
