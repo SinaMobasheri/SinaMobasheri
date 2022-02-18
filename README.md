@@ -6,5 +6,5 @@
 
 <br/>
 
-Joiner Python Developer 🐍 <br/>
+BackEnd Developer 📦 <br/>
 Mathematics & Computer Science 💻
