@@ -6,5 +6,5 @@
 
 <br/>
 
-BackEnd Developer 📦 <br/>
+Developer 📦 <br/>
 Mathematics & Computer Science 💻
