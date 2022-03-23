@@ -7,4 +7,4 @@
 <br/>
 
 Developer 💻 <br/>
-Mathematics & Computer Science 💡
+Mathematics & Computer Science 📚
