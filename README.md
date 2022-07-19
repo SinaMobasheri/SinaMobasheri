@@ -5,9 +5,9 @@
 [**Email**](mailto:sinamobasheri@outlook.com)
 |
 **Social Media**
-[**GitHub**](mailto:sinamobasheri@outlook.com),
-[**LinkedIn**](https://t.me/SinaMobasheri/),
-[**Twitter**](mailto:sinamobasheri@outlook.com)
+[**GitHub**](https://github.com/SinaMobasheri/),
+[**LinkedIn**](https://linkedin.com/in/SinaMobasheri/),
+[**Twitter**](https://twitter.com/SinaMobasheri/)
 
 <br/>
 
